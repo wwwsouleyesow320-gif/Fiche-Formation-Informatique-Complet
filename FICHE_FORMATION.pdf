@@ -1,0 +1,149 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources 4 0 R /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >>
+endobj
+5 0 obj
+<< /Length 10000 >>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(FICHE DE FORMATION INFORMATIQUE) Tj
+ET
+BT
+/F1 14 Tf
+50 720 Td
+(Du Debutant au Professionnel) Tj
+ET
+BT
+/F1 12 Tf
+50 680 Td
+(FONDAMENTAUX INFORMATIQUES) Tj
+ET
+BT
+/F1 10 Tf
+50 660 Td
+(Phase 1: Les Bases) Tj
+50 645 Td
+(- Linux est FONDAMENTAL) Tj
+50 630 Td
+(- Architecture de Linux) Tj
+50 615 Td
+(- Terminal et commandes essentielles) Tj
+50 600 Td
+(- Gestion des fichiers et permissions) Tj
+50 585 Td
+(- Scripts shell (bash, zsh)) Tj
+ET
+BT
+/F1 12 Tf
+50 560 Td
+(Git & GitHub) Tj
+ET
+BT
+/F1 10 Tf
+50 540 Td
+(- Initialiser un repo) Tj
+50 525 Td
+(- Commits, branches, merges) Tj
+50 510 Td
+(- Push, pull, fork) Tj
+50 495 Td
+(- Collaboration) Tj
+ET
+BT
+/F1 12 Tf
+50 470 Td
+(DEVELOPPEMENT WEB) Tj
+ET
+BT
+/F1 10 Tf
+50 450 Td
+(Frontend:) Tj
+50 435 Td
+(- HTML5 et CSS3) Tj
+50 420 Td
+(- JavaScript (Fondamental)) Tj
+50 405 Td
+(- React.js (Tres demande)) Tj
+50 390 Td
+(- Vue.js ou Angular) Tj
+ET
+BT
+/F1 10 Tf
+50 370 Td
+(Backend:) Tj
+50 355 Td
+(- Node.js et Express.js) Tj
+50 340 Td
+(- Python (Django, Flask, FastAPI)) Tj
+50 325 Td
+(- Databases: PostgreSQL, MongoDB) Tj
+50 310 Td
+(- REST APIs et GraphQL) Tj
+ET
+BT
+/F1 12 Tf
+50 285 Td
+(DEVELOPPEMENT APPLICATIONS) Tj
+ET
+BT
+/F1 10 Tf
+50 265 Td
+(Mobile:) Tj
+50 250 Td
+(- React Native (Cross-platform)) Tj
+50 235 Td
+(- Flutter) Tj
+50 220 Td
+(- iOS (Swift) et Android (Kotlin)) Tj
+ET
+BT
+/F1 10 Tf
+50 200 Td
+(Desktop:) Tj
+50 185 Td
+(- Electron (JavaScript)) Tj
+50 170 Td
+(- Tauri (Rust)) Tj
+ET
+BT
+/F1 12 Tf
+50 145 Td
+(RESEAUX & INFRASTRUCTURE) Tj
+ET
+BT
+/F1 10 Tf
+50 125 Td
+(- Docker et Kubernetes) Tj
+50 110 Td
+(- Cloud: AWS, GCP, Azure) Tj
+50 95 Td
+(- CI/CD et GitHub Actions) Tj
+50 80 Td
+(Temps: 12-18 mois de travail regulier) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000203 00000 n 
+0000000279 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+10329
+%%EOF
